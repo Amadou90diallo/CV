@@ -1,0 +1,155 @@
+/* le conteneur du cv */
+#conteneur{
+    border: 1px solid black;
+	background-color: #75d7ff;
+	height: 900px;
+	margin: 0 230px 0 230px;
+}
+
+#conteneur_entete{
+	border: 1px solid black;
+	background-color: #034563;
+	height: 200px;
+	margin: 5px 5px 0 5px;
+}
+
+#nom_prenom{
+	float: left;
+	border: 1px solid black;
+	background-color: #b9d2dd;
+	margin: 5px;
+	min-height: 185px;
+	width: 630px;
+	padding-left: 4px;
+}
+
+#photo_du_cv{
+	float: left;
+	border: 1px solid black;
+	background-color: #1a77a0;
+	margin: 5px;
+	min-height: 185px;
+	width: 200px;
+}
+
+#corps_du_cv{
+	border: 1px solid black;
+	background-color: #0f252f;
+	margin: 5px;
+	min-height: 682px;
+	width: 859px;
+}
+
+#a_propos_competen_lang{
+	float: left;
+	border: 1px solid black;
+	background-color: #656565;
+	height: 680px;
+	margin: 4px 0 0 4px;
+	width: 350px;
+}
+
+#expre_pro_formation{
+	border: 1px solid black;
+	background-color: #a7a1a1;
+	margin-left: 361px;
+	margin-top: 4px;
+	height: 680px;
+}
+
+#competence{
+	border: 1px solid black;
+	background-color: #e7aafa;
+	/*height: 245px;*/
+	margin: 4px 6px 0 6px;
+
+}
+
+#competence_profess{
+	margin-left: 40px;
+}
+
+.li_personnelle{
+	list-style-type: circle;
+}
+
+#partie_langue{
+	margin-left: 40px;
+}
+
+#a_propos{
+	border: 1px solid black;
+	background-color: #90ffab;
+    margin: 2px 6px 0 6px;
+}
+
+/* file:///C:/Users/Amadou/Desktop/honor%C3%A9%20html/index.html */
+
+#langue{
+	border: 1px solid black;
+	background-color: #7e4141;
+	margin: 2px 6px 0 6px;
+	/*height: 238px;*/
+}
+
+.li_langue{
+	list-style-type: square;
+}
+
+#ligne_verticale{
+	width: 1px;
+	height: 100px;
+	background-color: red;
+}
+
+#experiences_professionnelles{
+	border: 1px solid black;
+	background-color: #f3ffd3;
+	margin: 2px 4px 0px 4px;
+}
+
+#titre_experience_pro{
+	background-color: #ffabf5;
+	margin: 4px 4px 0 4px;
+	text-align: center;
+}
+
+#formation{
+	border: 1px solid black;
+	background-color: #9ec8ff;
+	margin: 4px 4px 0px 4px;
+}
+
+#interet{
+	border: 1px solid black;
+	background-color: #00c32f;
+	margin: 4px 4px 0px 4px;
+}
+
+#div_propos_de_moi{
+	text-align: center;
+}
+
+#lerom_propos{
+	margin-left: 4px;
+}
+#titre_competence{
+	background-color: #d3fcdd;
+	margin: 4px 4px;
+	text-align: center;
+}
+
+#corps_experience_pro{
+	margin-left: 40px;
+}
+
+#poste_occupe{
+	margin-left: 40px;
+	margin-top: -4px;
+}
+
+#titre_langue{
+	background-color: #d3fcdd;
+	margin: 4px 4px;
+	text-align: center;
+}
